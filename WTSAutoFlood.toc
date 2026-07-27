@@ -1,0 +1,17 @@
+## Interface: 20506
+## Title: WTS AutoFlood
+## Version: 3.0
+## Author: MRAktiv
+## X-Credits: Fork of TradeAnnouncer by Kalivos
+## X-License: GPL-3.0-or-later
+## SavedVariables: WTSAutoFloodDB
+## Notes: Automatic trade chat advertising
+## Notes-ruRU: Автоматическая реклама в чат
+
+embeds.xml
+
+Locales\locales.xml
+
+Files\core.lua
+Files\ui_builder.lua
+Files\options_builder.lua
