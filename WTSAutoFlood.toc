@@ -3,7 +3,7 @@
 ## Version: 3.0
 ## Author: MRAktiv
 ## X-Credits: Fork of TradeAnnouncer by Kalivos
-## X-License: GPL-3.0-or-later
+## X-License: GPL-3.0
 ## SavedVariables: WTSAutoFloodDB
 ## Notes: Automatic trade chat advertising
 ## Notes-ruRU: Автоматическая реклама в чат
