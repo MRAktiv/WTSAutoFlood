@@ -1,0 +1,4 @@
+# README нужен на странице репозитория, но в архив аддона не едет:
+# в папке AddOns игроку он не нужен.
+README.md export-ignore
+.gitattributes export-ignore
