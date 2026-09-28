@@ -18,6 +18,10 @@
 
 Автоотправка по таймеру работает в чатах Гильдия, Офицерский, Группа, Рейд и Поле боя.
 
+## Скачать
+
+Страница аддона с описанием и ответами на частые вопросы: [aktivforge.com/download/wts-autoflood](https://aktivforge.com/download/wts-autoflood/).
+
 ## Установка
 
 Скопируйте папку `WTSAutoFlood` в `Interface\AddOns\` вашего клиента.
